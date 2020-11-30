@@ -1,0 +1,16 @@
+C:\Users\stark\theInheritance\bin\Debug\net5.0\theInheritance.exe
+C:\Users\stark\theInheritance\bin\Debug\net5.0\theInheritance.deps.json
+C:\Users\stark\theInheritance\bin\Debug\net5.0\theInheritance.runtimeconfig.json
+C:\Users\stark\theInheritance\bin\Debug\net5.0\theInheritance.runtimeconfig.dev.json
+C:\Users\stark\theInheritance\bin\Debug\net5.0\theInheritance.dll
+C:\Users\stark\theInheritance\bin\Debug\net5.0\ref\theInheritance.dll
+C:\Users\stark\theInheritance\bin\Debug\net5.0\theInheritance.pdb
+C:\Users\stark\theInheritance\obj\Debug\net5.0\theInheritance.csprojAssemblyReference.cache
+C:\Users\stark\theInheritance\obj\Debug\net5.0\theInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stark\theInheritance\obj\Debug\net5.0\theInheritance.AssemblyInfoInputs.cache
+C:\Users\stark\theInheritance\obj\Debug\net5.0\theInheritance.AssemblyInfo.cs
+C:\Users\stark\theInheritance\obj\Debug\net5.0\theInheritance.csproj.CoreCompileInputs.cache
+C:\Users\stark\theInheritance\obj\Debug\net5.0\theInheritance.dll
+C:\Users\stark\theInheritance\obj\Debug\net5.0\ref\theInheritance.dll
+C:\Users\stark\theInheritance\obj\Debug\net5.0\theInheritance.pdb
+C:\Users\stark\theInheritance\obj\Debug\net5.0\theInheritance.genruntimeconfig.cache
