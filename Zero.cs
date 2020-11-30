@@ -7,4 +7,8 @@ public class Zero : Vehicle  // Electric motorcycle
     {
         // method definition omitted
     }
+    public override void Drive()
+    {
+        Console.WriteLine("The black Zero whips by. Skkkkuuuurrrrtttt!");
+    }
 }

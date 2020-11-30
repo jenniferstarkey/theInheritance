@@ -7,4 +7,8 @@ public class Ram : Vehicle // Gas powered truck
     {
         // method definition omitted
     }
+    public override void Drive()
+    {
+        Console.WriteLine("The red Ram drives by. Ruuuummmmbbbble!");
+    }
 }

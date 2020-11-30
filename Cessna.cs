@@ -9,6 +9,6 @@ public class Cessna : Vehicle  // Propellor light aircraft
     }
     public override void Drive()
     {
-        Console.WriteLine("Zoooooom!");
+        Console.WriteLine("The silver Cessna speeds by! ZOOOOOOOMMMMM!");
     }
 }

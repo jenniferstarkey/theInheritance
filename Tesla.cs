@@ -7,4 +7,8 @@ public class Tesla : Vehicle // Electric car
     {
         // method definition omitted
     }
+    public override void Drive()
+    {
+        Console.WriteLine("The white Tesla glides by. Vrooommm!");
+    }
 }
