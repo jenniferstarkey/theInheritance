@@ -11,4 +11,13 @@ public class Tesla : Vehicle // Electric car
     {
         Console.WriteLine("The white Tesla glides by. Vrooommm!");
     }
+    public override void Turn(string direction)
+    {
+        Console.WriteLine($"The Tesla turns sharply to the {direction}.");
+    }
+    public override void Stop()
+    {
+        Console.WriteLine($"The Tesla haults to a stop.");
+    }
+
 }
