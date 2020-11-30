@@ -13,9 +13,18 @@ namespace Garage
             Ram model1500 = new Ram();
 
             fxs.Drive();
+            fxs.Turn("right");
+            fxs.Stop();
             modelS.Drive();
+            modelS.Turn("left");
+            modelS.Stop();
             mx410.Drive();
+            mx410.Turn("left");
+            mx410.Stop();
             model1500.Drive();
+            model1500.Turn("right");
+            model1500.Stop();
+
         }
     }
 }
